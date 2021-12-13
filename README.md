@@ -1,55 +1,45 @@
-# yes
-https://github.com/yyes/yes
+# Great README-Generator
+https://github.com/Wingz003/README-Generator-o-Luigi
 
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./utils/LICENSE)
 
 # Description
-yes
+This assignment generates and formats a README file for the user after answering a series of questions. It is a very straightfoward and simple alternative than having to write a README by scratch.
 
 # Table of Contents
-* [Installation](#Installation)
-* [Usage](#Usage)
-* [Tests](#Tests)
-* [Contributions](#-ontributions)
-* [Licenses](#Licenses)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Tests](#tests)
+* [Contributions](#contributions)
+* [Licenses](#licenses)
 * [Questions](#questions)
 
 
 
 ## Installation
 ### You will need to install the following dependencies prior to running the application:</br>
-lkajsdfl;kjasdl;fkjadl;kfjadl;kfjasl;dkfjal;sdkfjal;sdkfj;alksdjf;laksjdf;lajsdfl;kajsdflkajdf;lka;je
-lkajsdfl;kjasdl;fkjadl;kfjadl;kfjasl;dkfjal;sdkfjal;sdkfj;alksdjf;laksjdf;lajsdfl;kajsdflkajdf;lka;je
-lkajsdfl;kjasdl;fkjadl;kfjadl;kfjasl;dkfjal;sdkfjal;sdkfj;alksdjf;laksjdf;lajsdfl;kajsdflkajdf;lka;je
-lkajsdfl;kjasdl;fkjadl;kfjadl;kfjasl;dkfjal;sdkfjal;sdkfj;alksdjf;laksjdf;lajsdfl;kajsdflkajdf;lka;je
-lkajsdfl;kjasdl;fkjadl;kfjadl;kfjasl;dkfjal;sdkfjal;sdkfj;alksdjf;laksjdf;lajsdfl;kajsdflkajdf;lka;je
-lkajsdfl;kjasdl;fkjadl;kfjadl;kfjasl;dkfjal;sdkfjal;sdkfj;alksdjf;laksjdf;lajsdfl;kajsdflkajdf;lka;je
-lkajsdfl;kjasdl;fkjadl;kfjadl;kfjasl;dkfjal;sdkfjal;sdkfj;alksdjf;laksjdf;lajsdfl;kajsdflkajdf;lka;je
-lkajsdfl;kjasdl;fkjadl;kfjadl;kfjasl;dkfjal;sdkfjal;sdkfj;alksdjf;laksjdf;lajsdfl;kajsdflkajdf;lka;je
-lkajsdfl;kjasdl;fkjadl;kfjadl;kfjasl;dkfjal;sdkfjal;sdkfj;alksdjf;laksjdf;lajsdfl;kajsdflkajdf;lka;je
-lkajsdfl;kjasdl;fkjadl;kfjadl;kfjasl;dkfjal;sdkfjal;sdkfj;alksdjf;laksjdf;lajsdfl;kajsdflkajdf;lka;je
-lkajsdfl;kjasdl;fkjadl;kfjadl;kfjasl;dkfjal;sdkfjal;sdkfj;alksdjf;laksjdf;lajsdfl;kajsdflkajdf;lka;je
-lkajsdfl;kjasdl;fkjadl;kfjadl;kfjasl;dkfjal;sdkfjal;sdkfj;alksdjf;laksjdf;lajsdfl;kajsdflkajdf;lka;je
-lkajsdfl;kjasdl;fkjadl;kfjadl;kfjasl;dkfjal;sdkfjal;sdkfj;alksdjf;laksjdf;lajsdfl;kajsdflkajdf;lka;je
-lkajsdfl;kjasdl;fkjadl;kfjadl;kfjasl;dkfjal;sdkfjal;sdkfj;alksdjf;laksjdf;lajsdfl;kajsdflkajdf;lka;je
-lkajsdfl;kjasdl;fkjadl;kfjadl;kfjasl;dkfjal;sdkfjal;sdkfj;alksdjf;laksjdf;lajsdfl;kajsdflkajdf;lka;je
-yes
+
+Inquirer and fs.
 
 ## Usage 
 ### Below are the following steps required to run this application:</br>
 
-yes
+Start the pompts by inputting index.js in the terminal, you will then be asked a multitude of questions that will autopopulate in accodrance to the format procided on the markdown function. You will then be presented with a great README file without the stress of making one from scratch.
 
 ## Contributions</br>
 
-yes
+No contributions have been made.
 
 ## Tests
 ### You will need to take the following steps to initiate the test:</br>
 
-yes
+No tests are required fort this project.
 
+## License
+License used for this application:</br>
+
+[MIT License](./utils/LICENSE)
 
 
 ## Questions
-### If you have a questions or concerns, feel free to contact me at yes.
+### If you have a questions or concerns, feel free to contact me at Lsanti618@gmail.com.

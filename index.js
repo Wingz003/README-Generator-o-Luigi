@@ -43,7 +43,7 @@ const questions = [
     },
     {
         type: 'input',
-        message: 'What are the required test/tests for this project?',
+        message: 'What are the required tests for this project?',
         name: 'tests'
     },
     {
