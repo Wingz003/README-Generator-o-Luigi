@@ -38,6 +38,7 @@ ${renderLicenseBadge(data.license)}
 
 # Description
 ${data.description}
+[![Watch the video](https://watch.screencastify.com/v/KrMn37HOOUJw5HGvOFjY)](https://watch.screencastify.com/v/KrMn37HOOUJw5HGvOFjY))
 
 # Table of Contents
 * [Installation](#installation)
