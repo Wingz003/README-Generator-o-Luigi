@@ -6,7 +6,7 @@ https://github.com/Wingz003/README-Generator-o-Luigi
 # Description
 This assignment generates and formats a README file for the user after answering a series of questions. It is a very straightforward and simple alternative than having to write a README by scratch.
 
-(video/README-generator.gif)
+[](video/README-generator.gif)
 
 
 # Table of Contents
